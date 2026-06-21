@@ -1,0 +1,4 @@
+vendor,named_users,implementation_cost,annual_license_per_user,annual_support_cost,annual_add_on_cost,currency,notes
+Northstar,180,42000,710,18000,0,EUR,"EEA residency, audit export and retention controls included in enterprise tier"
+BluePeak,180,30000,585,15000,12000,EUR,"Audit export not included; retention configuration is support-assisted"
+Veridian,180,39000,640,17000,9000,EUR,"Audit-log export requires a paid add-on"
